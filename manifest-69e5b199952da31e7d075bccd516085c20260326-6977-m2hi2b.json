@@ -1,0 +1,68 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2026-03-26T14:45:42+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "Train.csv",
+      "filesize": 489934,
+      "description": "The dataset for training your model.",
+      "created_at": "2026-03-26 12:13:47 UTC",
+      "updated_at": "2026-03-26 12:15:15 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 141845,
+      "description": "This file is for testing for your model.",
+      "created_at": "2026-03-26 12:13:57 UTC",
+      "updated_at": "2026-03-26 12:16:08 UTC"
+    },
+    {
+      "filename": "data_dictionary.csv",
+      "filesize": 749,
+      "description": "A full description of variables in the dataset",
+      "created_at": "2026-03-26 12:24:51 UTC",
+      "updated_at": "2026-03-26 12:25:01 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 16503,
+      "description": "This file shows the format of your submission file.",
+      "created_at": "2026-03-26 12:34:54 UTC",
+      "updated_at": "2026-03-26 12:34:59 UTC"
+    },
+    {
+      "filename": "climate_health_starter_notebook_.ipynb",
+      "filesize": 481656,
+      "description": "A starter notebook showing how to get started.",
+      "created_at": "2026-03-26 14:41:23 UTC",
+      "updated_at": "2026-03-26 14:41:59 UTC"
+    },
+    {
+      "filename": "climate_features.csv",
+      "filesize": 1075354,
+      "description": "Additional climate features",
+      "created_at": "2026-03-26 14:44:20 UTC",
+      "updated_at": "2026-03-26 14:45:02 UTC"
+    },
+    {
+      "filename": "downloaded_climate_features_data_dictionary.csv",
+      "filesize": 2144,
+      "description": "A description of the climate features downloaded.",
+      "created_at": "2026-03-26 14:45:23 UTC",
+      "updated_at": "2026-03-26 14:45:42 UTC"
+    },
+    {
+      "filename": "AI4EAC Health Challenge Info.pdf",
+      "filesize": 1694590,
+      "description": "Slide decks from the introductory webinar",
+      "created_at": "2026-03-25 09:11:07 UTC",
+      "updated_at": "2026-03-25 09:11:33 UTC"
+    }
+  ]
+}
